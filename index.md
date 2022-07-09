@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Eyes Exercise
 
-You can use the [editor on GitHub](https://github.com/dfoxster/Eye-Exercise/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Overview
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project showcases the use of Javascript to manipulate HTML DOM elements.  A Javascript function is added to the proper event to provide the desired result.
 
-### Markdown
+## How To Run
+1.  Once the page loads, use the mouse to move the cursor around the page.  An onmouseevent event listener is added that will cause the eye balls to mimic the movement of the cursor within the eye sockets.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Roadmap
+- [ ] Add an Eye Color dropdown list that will change the eye ball color to the selected color.
+- [ ] Add Blink control that will simulate the blinking of the eyes.  Where a pane that matches the background color of the page will move from the top of the eye sockets down, then up at regular time intervals
+- [ ] Add a Lazy Eye control that provides the ability to stop movement in one eye (left of right at the choce of the user).
 
-```markdown
-Syntax highlighted code block
+## License Information
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dfoxster/Eye-Exercise/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This Eye Exercise project is available under the MIT License.  See the LICENSE file for more info.
