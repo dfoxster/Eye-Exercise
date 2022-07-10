@@ -15,3 +15,5 @@ This project showcases the use of Javascript to manipulate HTML DOM elements.  A
 ## License Information
 
 This Eye Exercise project is available under the MIT License.  See the LICENSE file for more info.
+
+<a href="../index.html" target="_blank">View Project</a>
