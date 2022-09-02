@@ -16,3 +16,5 @@ This project showcases the use of Javascript to manipulate HTML DOM elements.  A
 
 This Eye Exercise project is available under the MIT License.  See the LICENSE file for more info.
 
+<a href="https://dfoxster.github.io/Eye-Exercise/site/index.html">View Demo</a>
+
